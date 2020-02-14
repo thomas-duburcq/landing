@@ -1,0 +1,21 @@
+.cards {
+
+	display: flex;
+    flex-wrap: wrap;
+}
+
+.card-avatar {
+
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin-bottom: 30px;
+
+}
+
+.card-avatar img {
+
+    box-shadow: 0px 1px 20px rgba(0,0,0,.5);
+
+}
+

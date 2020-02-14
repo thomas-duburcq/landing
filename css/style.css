@@ -1,0 +1,42 @@
+@import url("components/avatar.css");
+
+@import url("components/container.css");
+
+@import url("components/button.css");
+
+@import url("components/card.css");
+
+@import url("components/banner.css");
+
+@import url("components/banner-terrain.css");
+
+@import url("https://fonts.googleapis.com/css?family=PT+Sans:400,700&display=swap");
+
+
+body {
+
+	background-color: #ffffff;
+    font-family: 'PT Sans', sans-serif;
+    margin:0px;
+    color:white;
+        
+}
+
+h1, h2 {
+
+	color: black;
+}
+
+
+p {
+
+	color:black;
+	text-align: justify;
+
+}
+
+a {
+
+	text-decoration: none;
+
+}
